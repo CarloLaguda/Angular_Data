@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { UserItemComponent } from './user-item..component';
+import { UserItemComponent } from './user-item.component';
 
 describe('UserItemComponent', () => {
   let component: UserItemComponent;

@@ -1,7 +1,7 @@
 <ul>
-    @For(macchine of veicoli; track macchine){
+    @for(macchine of veicoli; track macchine){
         <li>
-            <app-macchina></app-macchina>
+            <app-macchina [macchina] = "macchine"></app-macchina>
         </li>
     }
 </ul>

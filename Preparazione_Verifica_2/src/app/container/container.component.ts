@@ -10,6 +10,6 @@ import { MacchinaComponent } from '../macchina/macchina.component';
 export class ContainerComponent {
   veicoli: string[];
   constructor(){
-    this.veicoli = ["rsupa", "betoniera", "camion", "furgone", "carrucola", "gru", "Trapano", "scale", "b", "c"]
+    this.veicoli = ["ruspa", "betoniera", "camion", "furgone", "carrucola", "gru", "Trapano", "scale", "b", "c"]
   }
 }

@@ -8,5 +8,6 @@ import { Component, Input, OnInit } from '@angular/core';
 })
 export class MacchinaComponent implements OnInit {
   @Input() macchina:string = "";
+  constructor(){}
   ngOnInit() {}
 }
